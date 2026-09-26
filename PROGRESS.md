@@ -8,5 +8,5 @@
 | 26/09/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | ✅ Solved | Completed |
 | 26/09/2026 | Longest Common Prefix | Arrays & Strings | Easy | ✅ Solved | Completed |
 | 26/09/2026 | Binary Search | Basic Algorithms | Easy | ✅ Solved | Completed |
-| DD/MM/YYYY | Move Zeroes | Basic Algorithms | Easy-Medium | ⏳ Pending | - |
+| 26/09/2026 | Move Zeroes | Basic Algorithms | Easy | ✅ Solved | Completed |
 | DD/MM/YYYY | Valid Parentheses | Stacks | Easy-Medium | ⏳ Pending | - |
